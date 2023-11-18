@@ -65,6 +65,4 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 We would like to express our gratitude to the open-source community for their valuable contributions and support.
 
----
 
-Remember to update the placeholders with the actual links, project names, and other specific details related to your project.
